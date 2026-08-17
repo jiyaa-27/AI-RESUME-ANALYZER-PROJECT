@@ -5,7 +5,11 @@ An NLP-based web application that parses resumes (PDF and DOCX), extracts key te
 Built using **Python**, **NLTK**, **scikit-learn**, and **Streamlit**—with **NO external APIs, chatbots, or LLMs** to protect candidate data privacy.
 
 ---
+## 🚀 Live Demo
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-resume-analyzer-project-ejmk5mfvqjxzsmcijszjnr.streamlit.app)
+
+👉 [Try the AI Resume Analyzer](https://ai-resume-analyzer-project-ejmk5mfvqjxzsmcijszjnr.streamlit.app)
 ## 🏗️ High-Level Architecture
 
 The application implements the following strict linear processing pipeline:
